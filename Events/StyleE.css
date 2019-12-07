@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-image: url("Image/leaf.jpg");
+	background-size: contain;
+	background-size: cover;
+	
+	
+	
+}
+
+h2{
+	font-size: 35px;
+
+	
+}
+
+p{
+    font-size: 25px;
+	width: 1100px;
+
+}
+
+p2{
+    font-size: 35px;
+	width: 650px;
+	float:right;
+	left: 1650px;
+	position: absolute;
+	bottom: 50px;
+	background: rgba(0,0,0,.70);
+	color: #fff;
+	padding: 50px;
+}
+
+
+.map {
+	float:right;
+	bottom: 980px;
+	position: relative;
+	right: 150px;
+	
+}
+
+div{
+	background: rgba(0,0,0,.70);
+	color: #fff;
+	width: 1200px;
+	height: 300px;
+	padding-top: 10px;
+	padding-left: 10px;
+	
+	
+	
+}
+.back {
+	text-decoration: none;
+	color: aliceblue;
+	font-size: 40px;
+	background: rgba(0,0,0,.70);
+	color: #fff;
+	padding: 20px;
+	width: 20px;
+	
+	
+	
+	
+	
+}
+

@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url("image/Intro background2.jpg");
+	background-size: contain;
+	background-size: cover;
+	
+	
+}
+
+div {
+	align-content: center;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	margin-top: 300px;
+	font-size: 40px;
+	
+}
+	
+.gray {
+	background: #404040;
+	color: #FFFFFF;
+	width: 310px;
+	height: 100%;
+	background: cover;
+	align-items: center;
+	position: relative;
+	left: 1030px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.sign {
+	background: #5C5C5C;
+	color: #FFFFFF;
+	width: 200px;
+	height: 100%;
+	background: cover;
+	align-items: center;
+	position: relative;
+	left: 1170px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.log {
+	align-items: center;
+	position: relative;
+	
+	
+}
